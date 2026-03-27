@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Juhairul Islam<br><br>Passionate about programming and structured problem-solving. I focus on writing clean, logical code and strengthening my skills through consistent project-based learning.
+Hi I am Juhairul Islam<br><br>Passionate about programming and structured problem-solving. I focus on writing clean, logical code and strengthening my skills through consistent project-based learning .
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/juhairul.islam.2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juhairul-islam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juhairulislam2018@gmail.com) 
