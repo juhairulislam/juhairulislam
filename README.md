@@ -31,7 +31,7 @@ I’m actively developing my skills through project-based learning, working with
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=juhairulislam&theme=radical" alt="juhairulislam" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=juhairulislam&theme=dark" alt="juhairulislam" />
 </p>
  <br/>
  
