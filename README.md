@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Juhairul Islam — an aspiring Frontend Developer currently focused on learning and building modern web interfaces.
+Hi, I'm Juhairul Islam — an aspiring Frontend Developer currently focused on learning and building modern web interfaces .
 
 I’m actively developing my skills through project-based learning, working with technologies like React, JavaScript, Tailwind CSS, HTML, and CSS. I enjoy building clean UI, writing structured code, and continuously improving my frontend development fundamentals.
 
