@@ -1,3 +1,6 @@
+  <img width="1856" height="576" alt="generated-image" src="https://github.com/user-attachments/assets/ace091aa-9aed-4772-8e86-760824fa8a97" />
+  
+  ---
 # 💫 About Me:
 Hi, I'm Juhairul Islam — an aspiring Frontend Developer currently focused on learning and building modern web interfaces .
 
@@ -8,9 +11,6 @@ I’m actively developing my skills through project-based learning, working with
 
 ---
 
-  <img width="1856" height="576" alt="generated-image" src="https://github.com/user-attachments/assets/ace091aa-9aed-4772-8e86-760824fa8a97" />
-  
-  ---
 
 # 🚀 Current Activity
 * Building projects using React.js
