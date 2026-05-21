@@ -11,7 +11,7 @@
 # 💫 About Me:
 Hi, I'm Juhairul Islam — an aspiring Frontend Developer currently focused on learning and building modern web interfaces .
 
-I’m actively developing my skills through project-based learning, working with technologies like React, JavaScript, Tailwind CSS, HTML, and CSS. I enjoy building clean UI, writing structured code, and continuously improving my frontend development fundamentals.
+I’m actively developing my skills through project-based learning, working with technologies like React, JavaScript, Tailwind CSS, HTML, and CSS. I enjoy building clean UI, writing structured code, and continuously improving my frontend development fundamentals .
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juhairul-islam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juhairul_islam) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/juhairul.islam.2024) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juhairulislam2018@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/@_juhairul)
