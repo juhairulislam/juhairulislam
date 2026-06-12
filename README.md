@@ -1,6 +1,7 @@
 
 <img width="1280" height="400" alt="juhairul_github_banner" src="https://github.com/user-attachments/assets/284c4926-1c83-4319-8503-d5c28bf6e45f" />
-  ---
+
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=juhairulislam&color=blue&style=flat" alt="juhairulislam" />
