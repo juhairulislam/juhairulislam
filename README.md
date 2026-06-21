@@ -14,7 +14,7 @@ Hi, I'm Juhairul Islam.
 
 MERN Stack Developer with experience building full-stack web applications using JavaScript (ES6+), React, Next.js, Express.js, and MongoDB.
 
-Focused on modern web development, authentication systems, API integration, and scalable application architecture.
+Focused on modern web development, authentication systems, API integration, and scalable application architecture .
 
 
 ## 🌐 Socials:
